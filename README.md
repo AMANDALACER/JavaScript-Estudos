@@ -1,5 +1,5 @@
 # JavaScript-Estudos
-#Estrutura de HTML5. CSS e JavaScript.
+#Estrutura de HTML5, CSS e JavaScript.
 
 <!DOCTYPE html>
 <html lang="pt-br"> 
